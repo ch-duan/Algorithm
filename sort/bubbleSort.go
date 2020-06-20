@@ -16,6 +16,5 @@ func BubbleSort(array []int) {
 		if ok {
 			return
 		}
-
 	}
 }
